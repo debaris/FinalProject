@@ -23,7 +23,7 @@ I'm thinking of visualizing some of the instructions from Grapefruit book. It co
 Idea 2
 
 
-Since we’ve talked talking about games, I thought of a simple news quiz game. It could have a scoring system at the end. It's a practical idea, but not sure how creative it is. Clearly not as it is. Maybe I can make it more interesting— like adding motion or making it harder to select the wrong one. Or, if you click on the wrong answer, it could slowly fade away or disappear - I don’t know how to do that though. But this can be adapted to Arduino. Also, this idea connects with the next project I'm thinking about. 
+Since we’ve talked about games last week, I thought of a simple news quiz game. It could have a scoring system at the end. It's a practical idea, but not sure how creative it is. Clearly not as it is. Maybe I can make it more interesting— like adding motion or making it harder to select the wrong one. Or, if you click on the wrong answer, it could slowly fade away or disappear - I don’t know how to do that though. But this can be adapted to Arduino. Also, this idea connects with the next project I'm thinking about. 
 
 
 <img width="416" alt="Screenshot 2024-11-24 at 22 47 25" src="https://github.com/user-attachments/assets/5d2ff25d-e353-4020-954f-228ab0d5f2f2">
