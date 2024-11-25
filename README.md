@@ -6,6 +6,13 @@ Idea 1
 
 
 
+<img width="377" alt="Screenshot 2024-11-24 at 23 36 28" src="https://github.com/user-attachments/assets/d77b97d7-fee2-4531-999f-155af61ad74d">
+
+
+
+
+
+
 <img width="700" alt="Screenshot 2024-11-24 at 23 19 58" src="https://github.com/user-attachments/assets/4a368e45-098e-4970-817b-a75964472091">
 
 
